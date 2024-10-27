@@ -1,8 +1,5 @@
 # rust-fundamentals-coursera
-First course of the Duke University 'Rust Programming Specialization' 
-
-Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-Taught by Tim Roughgarden. (Stanford University)
+First course of the 'Rust Programming Specialization' (Duke University)
 
 Main topics are the basics of the language:
 
